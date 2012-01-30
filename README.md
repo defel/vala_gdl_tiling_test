@@ -4,6 +4,7 @@ setup
 -----
 
 install the vala-compiler 
+
 > aptitude install valac vala-utils 
 
 
